@@ -1,0 +1,3 @@
+rootProject.name='MakeLib'
+include ':app'
+include ':graphics'
